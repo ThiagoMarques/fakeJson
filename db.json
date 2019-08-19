@@ -1,5 +1,14 @@
 {
  "salas": [
+  {
+     "id": 1,
+     "nome": "Sala Diretoria",
+     "espaco": "1 Andar",
+     "localizacao": "Brasília - SEDE",
+     "descricao": "Reunião com grupo de pessoas da diretoria",
+     "status": "Indisponível",
+     "data": "01/01/2001"
+   },
    {
      "id": 2,
      "nome": "Sala Diretoria",
@@ -16,6 +25,15 @@
      "localizacao": "Brasília - Sede",
      "descricao": "Reunião com grupo de pessoas da diretoria",
      "status": "Indisponível",
+     "data": "01/01/2001"
+   },
+   {
+     "id": 4,
+     "nome": "Sala Reunião",
+     "espaco": "Terreo",
+     "localizacao": "Sao Paulo",
+     "descricao": "Reunião com grupo de pessoas de pessoas comuns",
+     "status": "Disponível",
      "data": "01/01/2001"
    },
    {
