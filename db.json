@@ -53,6 +53,33 @@
      "descricao": "Reunião com grupo de pessoas comuns",
      "status": "Disponível",
      "data": "04/04/2004"
+   },
+   {
+     "id": 7,
+     "nome": "Sala Reunião",
+     "espaco": "Térreo",
+     "localizacao": "Brasília - Sede",
+     "descricao": "Reunião com grupo de pessoas comuns",
+     "status": "Disponível",
+     "data": "04/04/2004"
+   },
+   {
+     "id": 8,
+     "nome": "Sala Reunião",
+     "espaco": "Térreo",
+     "localizacao": "Rio de Janeiro,
+     "descricao": "Reunião com grupo de pessoas comuns",
+     "status": "Indisponível",
+     "data": "04/04/2004"
+   },
+   {
+     "id": 9,
+     "nome": "Sala Reunião",
+     "espaco": "Térreo",
+     "localizacao": "Brasília - Sede",
+     "descricao": "Reunião com grupo de pessoas comuns",
+     "status": "Disponível",
+     "data": "04/04/2004"
    }
  ],
  "profile": {
